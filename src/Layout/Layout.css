@@ -1,0 +1,21 @@
+.plus {
+    cursor: pointer;
+    background-color: rgb(194, 186, 186);
+    border-radius: 25px;
+    padding: 5px;
+    width: 150px;
+    height: 50px;
+    margin-top: 60px;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    transition: all 0.1s ease-in-out;
+  }
+  
+  .layout-container {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding: 10px;
+  }
+  
